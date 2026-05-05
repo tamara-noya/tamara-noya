@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Tamara 👋
 
-<!--
-**tamara-noya/tamara-noya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Biologist transitioning into Bioinformatics  
+🎓 MSc Bioinformatics student  
+📍 Based in Barcelona, Spain  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a background in translational biomedical research, with hands-on experience in molecular biology, clinical samples, and experimental data analysis.  
+
+Currently expanding my computational skills through my MSc in Bioinformatics, working with **R, Python, and SQL**.
+
+## Current Interests
+
+- Bioinformatics  
+- Genomics  
+- Clinical Data Analysis  
+- Biostatistics  
+- Precision Medicine  
+
+## Tools & Technologies
+
+R · Python · SQL · qPCR · Flow Cytometry · Data Visualization
+
+## Currently Learning
+
+- Reproducible workflows in R  
+- Python for data science  
+- SQL databases for biomedical data  
+
+## Connect with me
+
+www.linkedin.com/in/tamara-noya-mosquera
